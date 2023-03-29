@@ -1,4 +1,4 @@
-package basic.variable
+package basic.variable.variable_sample
 
 import java.lang.StringBuilder
 
