@@ -32,7 +32,7 @@ class Solution {
 }
 
 data class User(var id: String, var message: String) {
-    fun parseMessage(map: Map<String, String>) : String{
+    fun parseMessage(map: Map<String, String>): String {
         return map[id] + message
     }
 }

@@ -2,7 +2,7 @@ package algo.programmers.kakao81301
 
 class Solution {
 
-    var map: MutableMap<String, String> = HashMap()
+    val map: MutableMap<String, String> = HashMap()
 
     fun solution(s: String): Int {
         initMap()
