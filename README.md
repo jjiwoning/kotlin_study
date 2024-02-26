@@ -10,6 +10,8 @@
 
 [5장. 람다로 프로그래밍](https://jiwonchoi-study.notion.site/5-b09918a207ee446fa341b28fdc2469b4?pvs=4)
 
+[6장. 코틀린 타입 시스템](https://jiwonchoi-study.notion.site/6-ebf73098a67e42bc9b79632e9a838368?pvs=4)
+
 ### 잡다한 것
 
 [Kotlin 코드 디컴파일해서 Java로 보는 방법](https://jiwonchoi-study.notion.site/89454db30e42423eae57a38b1c68e5b7?pvs=4)
