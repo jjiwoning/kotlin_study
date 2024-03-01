@@ -12,6 +12,8 @@
 
 [6장. 코틀린 타입 시스템](https://jiwonchoi-study.notion.site/6-ebf73098a67e42bc9b79632e9a838368?pvs=4)
 
+[부록 E. 코루틴과 Async/Await](https://jiwonchoi-study.notion.site/Async-Await-d67ad80c80a64ee28beeba292dcb6006?pvs=4)
+
 ### 잡다한 것
 
 [Kotlin 코드 디컴파일해서 Java로 보는 방법](https://jiwonchoi-study.notion.site/89454db30e42423eae57a38b1c68e5b7?pvs=4)
