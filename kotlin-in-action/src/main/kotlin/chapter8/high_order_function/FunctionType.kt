@@ -5,6 +5,9 @@ fun main() {
     val action = { println(42) }
 
     twoAndThree { a, b -> a + b }
+
+    val result = "ab1c".filter { it in 'a'..'z' }
+    println(result)
 }
 
 fun performRequest(
@@ -17,4 +20,15 @@ fun performRequest(
 fun twoAndThree(operation: (Int, Int) -> Int) {
     val result = operation(2, 3)
     println("result = ${result}")
+}
+
+fun String.filter(predicate: (Char) -> Boolean): String {
+    val sb = StringBuilder()
+    for (index in indices) {
+        val element = get(index)
+        if (predicate(element)) {
+            sb.append(element)
+        }
+    }
+    return sb.toString()
 }
